@@ -1,1 +1,2 @@
-this is newbie repo
+this is newbie repo 1,
+this is second repo by newbie
